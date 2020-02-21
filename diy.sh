@@ -12,3 +12,5 @@ sed -i 's/luci-theme-bootstrap/luci-theme-argon/g' feeds/luci/collections/luci/M
 sed -i 's/Bootstrap/Argon/g' feeds/luci/collections/luci/Makefile
 #Build OpenClash
 git clone https://github.com/vernesong/OpenClash.git package/OpenClash
+#Build SmartDNS
+git clone https://github.com/pymumu/smartdns.git package/smartdns
