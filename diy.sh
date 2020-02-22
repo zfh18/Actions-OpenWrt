@@ -13,6 +13,6 @@ sed -i 's/Bootstrap/Argon/g' feeds/luci/collections/luci/Makefile
 #Build OpenClash
 git clone https://github.com/vernesong/OpenClash.git package/OpenClash
 # Build AdguardHome
-#git clone https://github.com/rufengsuixing/luci-app-adguardhome.git package/adguardhome
+git clone https://github.com/rufengsuixing/luci-app-adguardhome.git package/adguardhome
 #Build SmartDNS
 #git clone https://github.com/pymumu/smartdns.git package/smartdns
