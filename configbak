@@ -1,0 +1,85 @@
+CONFIG_TARGET_x86=y
+CONFIG_TARGET_x86_64=y
+CONFIG_TARGET_x86_64_Generic=y
+CONFIG_LIBCURL_COOKIES=y
+CONFIG_LIBCURL_FILE=y
+CONFIG_LIBCURL_FTP=y
+CONFIG_LIBCURL_HTTP=y
+CONFIG_LIBCURL_NO_SMB="!"
+CONFIG_LIBCURL_OPENSSL=y
+CONFIG_LIBCURL_PROXY=y
+CONFIG_PACKAGE_UnblockNeteaseMusic=y
+CONFIG_PACKAGE_acme=y
+CONFIG_PACKAGE_bash=y
+CONFIG_PACKAGE_ca-bundle=y
+CONFIG_PACKAGE_curl=y
+# CONFIG_PACKAGE_etherwake is not set
+CONFIG_PACKAGE_frpc=y
+# CONFIG_PACKAGE_iptables-mod-conntrack-extra is not set
+# CONFIG_PACKAGE_iptables-mod-ipopt is not set
+# CONFIG_PACKAGE_iptables-mod-ipsec is not set
+CONFIG_PACKAGE_kcptun-client=y
+# CONFIG_PACKAGE_kmod-crypto-cbc is not set
+# CONFIG_PACKAGE_kmod-crypto-deflate is not set
+# CONFIG_PACKAGE_kmod-crypto-des is not set
+# CONFIG_PACKAGE_kmod-crypto-echainiv is not set
+# CONFIG_PACKAGE_kmod-crypto-hmac is not set
+# CONFIG_PACKAGE_kmod-crypto-md5 is not set
+# CONFIG_PACKAGE_kmod-crypto-rng is not set
+# CONFIG_PACKAGE_kmod-crypto-sha256 is not set
+# CONFIG_PACKAGE_kmod-crypto-wq is not set
+# CONFIG_PACKAGE_kmod-ifb is not set
+# CONFIG_PACKAGE_kmod-ipsec is not set
+# CONFIG_PACKAGE_kmod-ipt-conntrack-extra is not set
+# CONFIG_PACKAGE_kmod-ipt-ipopt is not set
+# CONFIG_PACKAGE_kmod-ipt-ipsec is not set
+# CONFIG_PACKAGE_kmod-iptunnel6 is not set
+# CONFIG_PACKAGE_kmod-sched-cake is not set
+# CONFIG_PACKAGE_kmod-sched-core is not set
+# CONFIG_PACKAGE_kmod-tun is not set
+CONFIG_PACKAGE_libcurl=y
+# CONFIG_PACKAGE_libgmp is not set
+# CONFIG_PACKAGE_libminiupnpc is not set
+# CONFIG_PACKAGE_libnatpmp is not set
+CONFIG_PACKAGE_luci-app-acme=y
+CONFIG_PACKAGE_luci-app-adguardhome=y
+# CONFIG_PACKAGE_luci-app-arpbind is not set
+# CONFIG_PACKAGE_luci-app-flowoffload is not set
+CONFIG_PACKAGE_luci-app-frpc=y
+# CONFIG_PACKAGE_luci-app-ipsec-vpnd is not set
+CONFIG_PACKAGE_luci-app-openclash=y
+# CONFIG_PACKAGE_luci-app-sqm is not set
+CONFIG_PACKAGE_luci-app-ssr-plus_INCLUDE_Kcptun=y
+CONFIG_PACKAGE_luci-app-ssr-plus_INCLUDE_ShadowsocksR_Socks=y
+CONFIG_PACKAGE_luci-app-unblockmusic=y
+# CONFIG_PACKAGE_luci-app-unblockneteasemusic-mini is not set
+# CONFIG_PACKAGE_luci-app-vsftpd is not set
+# CONFIG_PACKAGE_luci-app-wol is not set
+# CONFIG_PACKAGE_luci-app-xlnetacc is not set
+# CONFIG_PACKAGE_luci-app-zerotier is not set
+CONFIG_PACKAGE_luci-theme-argon=y
+CONFIG_PACKAGE_node=y
+CONFIG_PACKAGE_socat=y
+# CONFIG_PACKAGE_sqm-scripts is not set
+CONFIG_PACKAGE_srelay=y
+# CONFIG_PACKAGE_strongswan is not set
+# CONFIG_PACKAGE_strongswan-charon is not set
+# CONFIG_PACKAGE_strongswan-ipsec is not set
+# CONFIG_PACKAGE_strongswan-minimal is not set
+# CONFIG_PACKAGE_strongswan-mod-aes is not set
+# CONFIG_PACKAGE_strongswan-mod-gmp is not set
+# CONFIG_PACKAGE_strongswan-mod-hmac is not set
+# CONFIG_PACKAGE_strongswan-mod-kernel-netlink is not set
+# CONFIG_PACKAGE_strongswan-mod-nonce is not set
+# CONFIG_PACKAGE_strongswan-mod-pubkey is not set
+# CONFIG_PACKAGE_strongswan-mod-random is not set
+# CONFIG_PACKAGE_strongswan-mod-sha1 is not set
+# CONFIG_PACKAGE_strongswan-mod-socket-default is not set
+# CONFIG_PACKAGE_strongswan-mod-stroke is not set
+# CONFIG_PACKAGE_strongswan-mod-updown is not set
+# CONFIG_PACKAGE_strongswan-mod-x509 is not set
+# CONFIG_PACKAGE_strongswan-mod-xauth-generic is not set
+# CONFIG_PACKAGE_strongswan-mod-xcbc is not set
+# CONFIG_PACKAGE_tc is not set
+# CONFIG_PACKAGE_vsftpd-alt is not set
+# CONFIG_PACKAGE_zerotier is not set
