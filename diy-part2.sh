@@ -27,6 +27,6 @@ sed -i '/uci commit luci/i\uci set luci.main.mediaurlbase=/luci-static/argon' pa
 git clone -b master https://github.com/vernesong/OpenClash.git package/OpenClash
 # Build AdguardHome
 #git clone https://github.com/rufengsuixing/luci-app-adguardhome.git package/adguardhome
-git clone https://github.com/zfh135072/luci-app-adguardhome.git package/adguardhome
+git clone https://github.com/kongfl888/luci-app-adguardhome.git package/adguardhome
 #Build SmartDNS
 #git clone https://github.com/pymumu/smartdns.git package/smartdns
