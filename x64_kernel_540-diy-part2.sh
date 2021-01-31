@@ -28,5 +28,7 @@ git clone -b master https://github.com/vernesong/OpenClash.git package/OpenClash
 # Build AdguardHome
 #git clone https://github.com/rufengsuixing/luci-app-adguardhome.git package/adguardhome
 git clone https://github.com/kongfl888/luci-app-adguardhome.git package/adguardhome
-#Build SmartDNS
+# Build SmartDNS
 #git clone https://github.com/pymumu/smartdns.git package/smartdns
+# Build koolproxyR plus+
+git clone https://github.com/jefferymvp/luci-app-koolproxyR package/koolproxyR
