@@ -22,6 +22,8 @@ cd ..
 sed -i 's/luci-theme-bootstrap/luci-theme-argon/g' feeds/luci/collections/luci/Makefile
 sed -i 's/Bootstrap/Argon/g' feeds/luci/collections/luci/Makefile
 sed -i '/uci commit luci/i\uci set luci.main.mediaurlbase=/luci-static/argon' package/lean/default-settings/files/zzz-default-settings
+# Argon theme config
+git clone -b master https://github.com/jerrykuku/luci-app-argon-config.git package/ArgonConfig
 #Build OpenClash
 git clone -b master https://github.com/vernesong/OpenClash.git package/OpenClash
 # Build AdguardHome
