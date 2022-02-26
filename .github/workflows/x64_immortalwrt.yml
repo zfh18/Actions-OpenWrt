@@ -8,7 +8,7 @@
 # Description: Build OpenWrt using GitHub Actions
 #
 
-name: Build x64 OpenWrt kernel 5.x
+name: Build immortalwrt x64 OpenWrt
 
 on:
   repository_dispatch:
